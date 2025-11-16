@@ -1,0 +1,6 @@
+[submodule "poolpay_frontend"]
+	path = poolpay_frontend
+	url = https://github.com/vicsnet/poolpay_frontend.git
+[submodule "poolPayContract"]
+	path = poolPayContract
+	url = https://github.com/vicsnet/poolPayContract.git
