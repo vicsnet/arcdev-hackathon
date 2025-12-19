@@ -1,0 +1,6 @@
+.backend/.env
+backend/.env
+backend/target
+
+poolpay_frontend/ node_modules
+poolpay_frontend/.env
